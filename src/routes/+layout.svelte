@@ -11,7 +11,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>visit on <a href="https://github.com/stevereinke/storyblok-svelte">Github</a></p>
 	</footer>
 </div>
 
